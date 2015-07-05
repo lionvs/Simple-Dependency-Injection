@@ -1,0 +1,9 @@
+c:\users\volodya\documents\visual studio 2013\Projects\SimpleDepInj\SimpleDepInj\bin\Debug\SimpleDepInj.exe.config
+c:\users\volodya\documents\visual studio 2013\Projects\SimpleDepInj\SimpleDepInj\bin\Debug\SimpleDepInj.exe
+c:\users\volodya\documents\visual studio 2013\Projects\SimpleDepInj\SimpleDepInj\bin\Debug\SimpleDepInj.pdb
+c:\users\volodya\documents\visual studio 2013\Projects\SimpleDepInj\SimpleDepInj\obj\Debug\SimpleDepInj.csprojResolveAssemblyReference.cache
+c:\users\volodya\documents\visual studio 2013\Projects\SimpleDepInj\SimpleDepInj\obj\Debug\SimpleDepInj.exe
+c:\users\volodya\documents\visual studio 2013\Projects\SimpleDepInj\SimpleDepInj\obj\Debug\SimpleDepInj.pdb
+c:\users\volodya\documents\visual studio 2013\Projects\SimpleDepInj\SimpleDepInj\bin\Debug\Ninject.dll
+c:\users\volodya\documents\visual studio 2013\Projects\SimpleDepInj\SimpleDepInj\bin\Debug\Ninject.xml
+c:\users\volodya\documents\visual studio 2013\Projects\SimpleDepInj\SimpleDepInj\bin\Debug\LogFile.txt
